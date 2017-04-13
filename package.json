@@ -1,0 +1,22 @@
+{
+  "name": "missile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "missile.js",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.10",
+    "bluebird": "^3.3.3",
+    "dream-cheeky-driver": "^2.2.1",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.0",
+    "dream-cheeky-driver": "^2.2.1",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
